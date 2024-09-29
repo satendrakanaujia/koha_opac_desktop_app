@@ -1,3 +1,4 @@
+This project is a bespoke desktop application developed using Node.js, intended to offer a dedicated interface for navigating the Koha Online Public Access Catalog (OPAC) within library institutions.
 Here's a `README.md` file for your GitHub repository:
 
 ```markdown
